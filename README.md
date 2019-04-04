@@ -1,7 +1,12 @@
-JavaScript Npm "nps" Demo
-=========================
+JavaScript Npm "nps-utils" Concurrent Series Demo
+==================================================
 
 ```
 npm install
-npm run demo
+npm start
+npm start demo
+npm start hello
+npm start hello.another
+npm start helloConcurrent
+npm start helloSeries
 ```
